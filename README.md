@@ -1,0 +1,2 @@
+# Netbot
+Bot auto follow
